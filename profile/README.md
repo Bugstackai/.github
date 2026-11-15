@@ -1,10 +1,10 @@
-# bugstack
+# Bugstack
 
-**Autonomous software maintenance.** bugstack watches your app and your GitHub repository, fixes what breaks, and sends every change as a pull request you control.
+**Autonomous software maintenance.** Bugstack watches your app and your GitHub repository, fixes what breaks, and sends every change as a pull request you control.
 
 - **What it handles:** crashes, failing CI on your default branch, failed deploys, vulnerable and outdated packages, committed secrets, and security audits.
-- **How you stay in control:** each repository has an autonomy level (Suggest, Review or Autopilot). New repositories start on Review: bugstack opens the pull request, you merge it.
-- **Proof:** bugstack's tester is first on the [SWT-Bench Verified leaderboard](https://swtbench.com/?results=verified). Predictions and traces are in [swt-bench-verified](https://github.com/Bugstackai/swt-bench-verified).
+- **How you stay in control:** each repository has an autonomy level (Suggest, Review or Autopilot). New repositories start on Review: Bugstack opens the pull request, you merge it.
+- **Proof:** Bugstack's tester is first on the [SWT-Bench Verified leaderboard](https://swtbench.com/?results=verified). Predictions and traces are in [swt-bench-verified](https://github.com/Bugstackai/swt-bench-verified).
 
 ## SDKs
 
